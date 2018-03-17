@@ -1,9 +1,20 @@
+
+
 .container-fluid {
-	background-color: orange;
+	background-color: #339966;
 }
 
 .jumbotron {
-	background-image: url(central-bar-draft-beer-940x626.jpg);
+	background-image: url(Beer-Taps-2.jpg);
 	background-size: 100%;
 	background-repeat: none;
+}
+
+#find-beer {
+	margin-top: 10px;
+}
+
+.panel {
+	width: 100%;
+	height: 350px;
 }
